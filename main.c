@@ -8,7 +8,7 @@
 #include<malloc.h>
 #include<string.h>
 #include<stdlib.h>
-#include"tongxun.h"
+#include"address_list.h"
 #define SIZEMAX 1000
 
 int main()
